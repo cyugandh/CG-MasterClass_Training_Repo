@@ -1,1 +1,1 @@
-This is a file adding to new repo.
+This is a file adding to new repo. editing this file to get conflict with duplicate branch
