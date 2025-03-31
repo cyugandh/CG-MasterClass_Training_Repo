@@ -1,1 +1,3 @@
-This is a file adding to new repo. editing this file to get conflict with duplicate branch
+This is a file adding to new repo. editing this file to get conflict with duplicate branch. 
+another line adding here to check - file changing
+version 4.0
