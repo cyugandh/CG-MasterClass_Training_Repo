@@ -2,7 +2,7 @@ name: teamsApp deployment
 on:
   push:
     branches:
-      - main
+      - Duplicate
   workflow_dispatch:
   
 jobs:
